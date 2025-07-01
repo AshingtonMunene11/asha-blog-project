@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Exploring Nairobi's Creative Scene",
+      "author": "Kamau",
+      "content": "From street murals to underground poetry slams, Nairobi's creative community continues to thrive. Here’s what I discovered after a weekend of exploration.",
+      "image": "https://images.unsplash.com/photo-1549924231-f129b911e442?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 2,
+      "title": "How I Built My First Web App with Vanilla JS",
+      "author": "Wanjiru",
+      "content": "No frameworks, no shortcuts — just raw JavaScript and determination. This is a breakdown of everything I learned building my first functional app.",
+      "image": "https://images.unsplash.com/photo-1581093588401-83d7a98f41f5?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 3,
+      "title": "The Power of Morning Rituals",
+      "author": "Otieno",
+      "content": "Waking up before sunrise changed how I approach productivity, wellness, and clarity. Here are 5 rituals that shaped my mornings for the better.",
+      "image": "https://images.unsplash.com/photo-1500336624523-d727130c3328?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 4,
+      "title": "Photography as a Form of Protest",
+      "author": "Achieng",
+      "content": "Documenting truth through the lens is more than art—it's activism. These photojournalists are risking everything to tell stories the world needs to see.",
+      "image": "https://images.unsplash.com/photo-1558981403-c5f9891de7b2?auto=format&fit=crop&w=800&q=80"
+    }
+  ]
+}
