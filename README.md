@@ -1,4 +1,4 @@
-# 📝 Asha Blog Project
+# 📝 Ash Blog 
 
 Asha Blog is a simple, single-page blog post manager built with HTML, CSS, and vanilla JavaScript. It allows users to view, add, edit, and delete blog posts using a local JSON API powered by JSON Server.
 
